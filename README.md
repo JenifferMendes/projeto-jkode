@@ -47,3 +47,7 @@ Legendas referente aos projetos:
 🟡 == projeto sendo atualizado.  
 🔴 == Não iniciei o projeto.  
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/115995202/210182692-15a9d15e-660e-460d-9d9f-de7e6a23b20a.png">
+</p>
+
