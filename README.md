@@ -1,4 +1,5 @@
-# :star2: JKode :star2:
+<h1 align="center">  :star2: JKode :star2: </h1>
+
 Oi, eu sou a Jeniffer Mendes, mais conhecida como Koi,  e o projeto JKode tem como objetivo principal documentar toda a minha jornada de iniciante até  desenvolvedora web empregada, passando por todos os cursos, desafios e projetos que fiz, deixando público no repositório [meus estudos](https://github.com/JenifferMendes/meus-estudos). 
 A intenção é mostrar todas as etapas que passarei até conseguir o meu objetivo, por utilizar apenas conteúdos gratuitos na internet, gostaria de poder incentivar outras pessoas que queiram começar ou já estão estudando por conta própria e de maneira gratuita.
 Todo o projeto será documentado através de lives diárias na plataforma da [twitch](https://www.twitch.tv/jkoizumii), com os arquivos no repositório [meus estudos](https://github.com/JenifferMendes/meus-estudos), onde colocarei os exercícios, anotações e desafios referente aos cursos que estarei fazendo durante o projeto.
