@@ -35,6 +35,21 @@ Se você tem experiência na área, você pode me ajudar dando dicas do que estu
 
 Toda sugestão é bem vinda!
 
+## 	:date: Cronograma das lives:  
+
+Horários | Segunda | Terça | Quarta | Quinta | Sexta | Sabado | Domingo|
+|---------|---------|-------|--------|--------|-------|--------|--------|
+8h/9h-13h/14h|Estudos|  Estudos|Estudos |Estudos |Estudos|Desafios|JKode|  
+
+
+legenda:
+* Estudos - São lives voltadas aos estudos, usamos cursos gratuitos para aprender.
+* Desafios - São lives voltadas a resolução de desafios que o chat mandou, para mandar um desafio resgate na loja da twitch!
+* JKode - São lives voltadas para a construção dos projetos Open Source do JKode!  
+
+*obs: as lives podem ter horários alterados e as temáticas também*
+
+## :iphone: Redes Sociais:
 * Onde estarei online: [Twitch](https://www.twitch.tv/jkoizumii)
 * Meu [LinkedIn](https://www.linkedin.com/in/jeniffer-mendes-11874324)
 * Meu [GitHub](https://github.com/JenifferMendes)
