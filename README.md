@@ -39,7 +39,7 @@ Toda sugestão é bem vinda!
 
 Horários | Segunda | Terça | Quarta | Quinta | Sexta | Sabado | Domingo|
 |---------|---------|-------|--------|--------|-------|--------|--------|
-8h/9h-13h/14h|Estudos|  Estudos|Estudos |Estudos |Estudos|Desafios|JKode|  
+|12h - 16h|Estudos|  Estudos|Estudos |Estudos |Estudos|Desafios|JKode|  
 
 
 legenda:
