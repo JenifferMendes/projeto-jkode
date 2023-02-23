@@ -5,11 +5,11 @@ A intenção é mostrar todas as etapas que passarei até conseguir o meu objeti
 Todo o projeto será documentado através de lives diárias na plataforma da [twitch](https://www.twitch.tv/jkoizumii), com os arquivos no repositório [meus estudos](https://github.com/JenifferMendes/meus-estudos), onde colocarei os exercícios, anotações e desafios referente aos cursos que estarei fazendo durante o projeto.
 
 ## :memo: Metas do projeto:
-* estudar no mínimo 4h diárias em lives durante 6 meses, totalizando 120h mensais.(começamos dia 13/12/2022)
-* desenvolver os 4 projetos open source.
-* mostrar meu dia a dia estudando e como organizo meus estudos.
-* incentivar outras pessoas a estudarem ou voltarem a estudar programação
-* mostrar minha rotina até conseguir um emprego.
+- [ ] Estudar no mínimo 4h diárias em lives ou totalizando 120h de live mensais durante 6 meses.(começamos dia 13/12/2022)  
+- [ ] Desenvolver os 4 projetos open source.  
+- [ ] Mostrar meu dia a dia estudando e como organizo meus estudos.  
+- [ ] Incentivar outras pessoas a estudarem ou voltarem a estudar programação  
+- [ ] Mostrar minha rotina até conseguir um emprego.  
 
 ## :computer: Projetos Open Source:
 Os projetos abaixo não tem nomes definidos ainda, apenas a ideia central das aplicações deles, conforme eles forem desenvolvidos iremos elaborar mais a descrição e colocaremos nomes.
